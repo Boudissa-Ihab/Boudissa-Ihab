@@ -1,8 +1,6 @@
 <h1 align="center">Hello there :grin: My name is Boudissa Ihab</h1>
 <h3 align="center">Fullstack developer, passionate about transforming ideas into fully-functional web applications. I specialize in (but not only) the PHP/Laravel and React.js stack, with a focus on creating secure, high-performance systems from database design to dynamic UIs. Always open to innovative projects and collaboration.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boudissa-ihab" alt="boudissa-ihab" /></a> </p>
-
 - 📫 How to reach me **boudissa.ihab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
