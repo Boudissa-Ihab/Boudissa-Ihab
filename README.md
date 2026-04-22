@@ -5,13 +5,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihab-boudissa" height="30" />
+  <a href="https://linkedin.com/in/ihab-boudissa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihab-boudissa" height="30" />
+  </a>
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12721282/ihab-boudissa" height="30" />
+  <a href="https://stackoverflow.com/users/12721282/ihab-boudissa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12721282/ihab-boudissa" height="30" />
+  </a>
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihab.boudissa" height="30" />
+  <a href="https://fb.com/ihab.boudissa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihab.boudissa" height="30" />
+  </a>
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihab_boudissa" height="30" />
+  <a href="https://instagram.com/ihab_boudissa" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihab_boudissa" height="30" />
+  </a>
   <img width="10" />
 </div>
 
